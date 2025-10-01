@@ -1,5 +1,5 @@
 # ______________________________________________________________________________
-# FOR REFERENCE: FROM TEXTBOOK
+# FOR REFERENCE: FROM TEXTBOOK. Determine how state can be represented for use in class EightPuzzle.
 
 
 class EightPuzzle(Problem):
